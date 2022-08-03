@@ -1,3 +1,3 @@
-## Hi there 👋, my name is Frida
+## Hi there 👋
 
 
