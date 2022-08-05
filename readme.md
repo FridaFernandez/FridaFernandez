@@ -25,6 +25,9 @@ I enjoy learn new skills and sharing what I know to those who need it.<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-silver?style=flat-square&logoColor=black&logo=Figma) &nbsp;
 
+----
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FridaLuz22&count_private=true&show_icons=true&include_all_commits=true&theme=gotham) &nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FridaLuz22&hide=TeX&layout=compact&theme=gotham)
 
 
